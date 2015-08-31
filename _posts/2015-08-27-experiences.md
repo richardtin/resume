@@ -24,6 +24,9 @@ fa-icon: suitcase
   - BenQ mobile phone development
   - Android product tree management
 * iOS projects - responsible for application development and **Continuous Integration** process setup
+  - ebook - responsible for debugging & application release
+    * Product list: [大師輕鬆讀互動版](https://itunes.apple.com/us/app/da-shi-qing-song-du-hu-dong-ban/id436919941?mt=8) / [階梯日本語](https://itunes.apple.com/us/app/jie-ti-ri-ben-yu-za-zhi/id696518772?mt=8) / [digiPages數位互動雜誌](https://itunes.apple.com/us/app/digipages-shu-wei-hu-dong/id642258993?mt=8) / ...
+    * Bug fixes: APNs, In-app purchase, Purchase restore, ...
   - Wristband (Sport Watch)
     * Bluetooth LE communication
     * Get sport data by Bluetooth LE (GATT profile)
@@ -35,9 +38,8 @@ fa-icon: suitcase
     * Course schedule
     * Course test
     * School timetable
-* Android projects - responsible for application development & debug
+* Android projects - responsible for application development & debugging
   - QISS apps on Play Store
-    * FM Radio
     * QiSS Day
   - Android frameworks
     * ConnectivityService
