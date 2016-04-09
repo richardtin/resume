@@ -9,61 +9,61 @@ fa-icon: suitcase
 
 **Associate Technical Manager**, Research & Development
 
-* Android projects - responsible for system integration
-  - Android Sensor Framework (HAL & driver integration)
-  - Android product tree management
+* Android projects - responsible for system integration & debugging
+    - Sensor (app, framework daemon, HAL & driver integration)
+    - NFC (app, framework, daemon, HAL & driver integration)
+    - Android Frameworks debugging
+    - Android device management (product information, customization, properties, ...)
+    - CTS / GTS test
+* Android Wear Development
 
 --------
 
 ## <span style="text-decoration:underline">12/2010 – 3/2015</span>: Qisda (BenQ) Corporation – MMI Team
 
-**Sensor Software Engineer**, Research & Development
+**Senior Software Engineer**, Research & Development
 
 * Team leader - responsible for team management, human resource arrangement
 * Software project leader – responsible for project schedule planning, and bug reports / progress tracking
-  - BenQ mobile phone development
-  - Android product tree management
+    - BenQ mobile phone development
+    - Android device management (product information, customization, properties, ...)
 * iOS projects - responsible for application development and **Continuous Integration** process setup
-  - ebook - responsible for debugging & application release
-    * Product list: [大師輕鬆讀互動版](https://itunes.apple.com/us/app/da-shi-qing-song-du-hu-dong-ban/id436919941?mt=8) / [階梯日本語](https://itunes.apple.com/us/app/jie-ti-ri-ben-yu-za-zhi/id696518772?mt=8) / [digiPages數位互動雜誌](https://itunes.apple.com/us/app/digipages-shu-wei-hu-dong/id642258993?mt=8) / ...
-    * Bug fixes: APNs, In-app purchase, Purchase restore, ...
-  - Wristband (Sport Watch)
-    * Bluetooth LE communication
-    * Get sport data by Bluetooth LE (GATT profile)
-    * Show sport data in diagram
-    * Upload sport data to cloud server for health management
-  - E-learning
-    * Teaching interaction system
-    * Course material management
-    * Course schedule
-    * Course test
-    * School timetable
+    - ebook - responsible for debugging & application release
+        * Product list: [大師輕鬆讀互動版](https://itunes.apple.com/us/app/da-shi-qing-song-du-hu-dong-ban/id436919941?mt=8) / [階梯日本語](https://itunes.apple.com/us/app/jie-ti-ri-ben-yu-za-zhi/id696518772?mt=8) / [digiPages數位互動雜誌](https://itunes.apple.com/us/app/digipages-shu-wei-hu-dong/id642258993?mt=8) / ...
+        * Bug fixes: APNs, In-app purchase, Purchase restore, ...
+    - Wristband (Sport Watch)
+        * GPS path logging
+        * Bluetooth LE communication
+        * Get sport data by Bluetooth LE (GATT profile)
+        * Show sport data in diagram
+        * Upload sport data (JSON format) to cloud server (REST API) for health management
+    - E-learning
+        * Teaching interaction system
+        * Course material management
+        * Course online quiz
+        * Course schedule for teacher
+        * School timetable for student
 * Android projects - responsible for application development & debugging
-  - QISS apps on Play Store
-    * QiSS Day
-  - Android frameworks
-    * ConnectivityService
-    * DownloadManager
-    * Radio Interface Layer (RIL)
-    * TelephonyService
-  - APN database
-  - Browser
-  - Dialer
-  - Email
-  - Messaging
-  - NFC
-  - FastDormancy
+    - QISS apps on Play Store
+        * QiSS Day
+    - Android frameworks
+        * ConnectivityService
+        * DownloadManager
+        * Radio Interface Layer (RIL)
+        * TelephonyService
+            - APN database
+    - Browser, Dialer, Email, Messaging, NFC, FastDormancy
 * Enhancement of android stock apps
-  - Messaging (SMS/MMS)
-    * Save SMS to SIM (USIM / RUIM)
-    * Read SMS from SIM (USIM / RUIM)
-    * Multiple contact picker
-    * External audio picker
-    * Long message support for class-0
-    * WapPush
-    * Multi-SIM support
-  - Email
-    * Multiple contact picker
+    - Messaging (SMS/MMS)
+        * Save SMS to SIM (USIM / RUIM)
+        * Read SMS from SIM (USIM / RUIM)
+        * Multiple contact picker
+        * External audio picker
+        * Long message support for class-0
+        * WapPush
+        * Multi-SIM support
+    - Email
+        * Multiple contact picker
 
 --------
 
@@ -72,17 +72,17 @@ fa-icon: suitcase
 **Software Engineer**, Research & Development
 
 * Responsibilities include: maintain protocol stack software, analyze and debug worldwide field problems, implement enhancements and BenQ specific features, and work with network operators to fulfill customization and special requirements.
-* Familiar with the line of ETSI technical specifications:
-  - data services (GPRS and CSD)
-  - SMS
-  - AT command
+* Familiar with ETSI technical specifications:
+    - data services (GPRS and CSD)
+    - SMS
+    - AT command
 * **Project integrator** – responsible for project schedule planning, and bug reports / progress tracking. Also in charge of coordinating unit test plans and carrying out code reviews.
 * **Managed the GCF certification process** – responsible for overlooking the test plan, delegating tasks, acting as a communication channel between test houses/engineers, and ensuring that the projects are on schedule.
-  - Implement auto test tool (by Visual Studio C#)
-    * Serial communication
-    * AT command
+    - Implement auto test tool (by Visual Studio C#)
+        * Serial communication
+        * AT command
 * Implement enhancements and BenQ specific features
-  - BenQ mobile sync tool
+    - BenQ mobile sync tool
 
 --------
 
@@ -98,6 +98,6 @@ fa-icon: suitcase
 
 **Software Engineer**, Research & Development
 
-* Using Borland C++ to design Network Management System (NMS), application software used for remote management of xDSL devices across network.
-* Developed web interface in order to make users can easily manage xDSL devices across network.
+* Implement Network Management System (NMS), application software used for remote management of xDSL devices across network. (Borland C++)
+* Develop web interface in order to make users can easily manage xDSL devices across network.
 * Responsible for xDSL products’ firmware releases, which included bug-fixed, enhancement, and new-added feature issues.
