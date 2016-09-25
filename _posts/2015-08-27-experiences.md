@@ -5,7 +5,17 @@ color: white
 fa-icon: suitcase
 ---
 
-## <span style="text-decoration:underline">3/2015 – current</span>: Quanta Corporation
+## <span style="text-decoration:underline">6/2016 – Current</span>: BenQ Corporation
+
+**Technical Manager**, Research & Development
+
+* Laravel
+    - [BenqCalculator](http://projectorcalculator.benq.com)
+* Android
+    - OTA client app for BenQ devices
+    - A Customized Music player
+
+## <span style="text-decoration:underline">3/2015 – 6/2016</span>: Quanta Corporation
 
 **Associate Technical Manager**, Research & Development
 
@@ -16,6 +26,10 @@ fa-icon: suitcase
     - Android device management (product information, customization, properties, ...)
     - CTS / GTS test
 * Android Wear Development
+    - Google device structure refactoring (co-work with Qualcomm & Google engineers)
+    - Implement Android Wear Retail Mode app
+    - Google OTA setup & test
+    - Charging mode UI (related with `dock_state`)
 
 --------
 
